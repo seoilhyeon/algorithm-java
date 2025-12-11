@@ -1,7 +1,5 @@
 package problems.leetcode.hashtable;
 
-import java.util.ArrayDeque;
-import java.util.Deque;
 import java.util.HashSet;
 import java.util.Set;
 
